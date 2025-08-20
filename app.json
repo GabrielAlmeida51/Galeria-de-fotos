@@ -33,6 +33,13 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Para usar essa função, você precisa dar acesso à galeria de fotos!",
+          "cameraPermission": "Para usar essa função, você precisa dar acesso à câmera!"
+        }
       ]
     ],
     "experiments": {
